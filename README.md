@@ -147,6 +147,8 @@ The scoreboard compares DUT outputs with a reference memory model and reports:
 * TEST FAILED
 * SLV ERROR
 
+<img width="1843" height="310" alt="Screenshot 2026-06-05 215151" src="https://github.com/user-attachments/assets/b5a4e818-b7a9-45ca-8b24-4a5d39f49cc6" />
+
 ---
 
 ## Future Improvements
